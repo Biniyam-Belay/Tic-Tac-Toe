@@ -73,3 +73,8 @@ h1 {
 #restartButton:hover {
     background-color: #555;
 }
+
+.disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+}
